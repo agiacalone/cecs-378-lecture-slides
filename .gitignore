@@ -1,4 +1,5 @@
 renv/
 .Rproj.user/
 renv.lock
+.Rprofile
 
